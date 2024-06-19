@@ -46,14 +46,13 @@ A list of URLs stored in an Excel file named excel_data.xlsx with a column named
 
 #### Clone the repository:
 
-```http
+```shell
 git clone <repository_url>
 cd <repository_directory>
 ```
 #### Install the required packages:
-```http
+```command-line
 pip install requests beautifulsoup4 pandas openpyxl
-
 ```
 
 | Parameter | Type     | Description                       |
